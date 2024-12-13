@@ -135,6 +135,7 @@ span {
   .precio select {
     margin-top: 5px;
     height: 28px;
+    margin-bottom: 5px;
   }
   .productos {
     grid-template-columns: repeat(2, 1fr);
